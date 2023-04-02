@@ -1,0 +1,9 @@
+name: NoNetherRoofPortals
+version: '${project.version}'
+main: me.nolezor.nonetherroofportals.NoNetherRoofPortals
+api-version: 1.19
+authors: [ Nolezor ]
+description: Customize what players can do with portals on the nether roof
+permissions:
+  nonetherroofportals.bypass:
+    default: false
